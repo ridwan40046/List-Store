@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.6.2)
+  - IQKeyboardManagerSwift (6.5.10)
+  - LBTATools (1.0.12)
+  - SwiftyJSON (5.0.1)
+  - SWXMLHash (5.0.1)
+  - Toaster (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - LBTATools
+  - SwiftyJSON
+  - SWXMLHash (~> 5.0.1)
+  - Toaster
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - LBTATools
+    - SwiftyJSON
+    - SWXMLHash
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+  Toaster: c3473963c78e8cabbf6ea6f11ad0fdaae6f54987
+
+PODFILE CHECKSUM: 2136bf991ccdf119f01fc0446fd0fb8109a64c14
+
+COCOAPODS: 1.11.3
